@@ -1,0 +1,14 @@
+.div-style {
+    display: block;
+    background-color: yellow;
+    width: 15%;
+    margin: 3px;
+    padding: 1px;
+}
+label {
+    width: 50%;
+    display: inline;
+}
+input[type=text] {
+    float: right;
+}
